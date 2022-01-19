@@ -6,9 +6,14 @@ namespace SnakeOOP
     {
         static void Main(string[] args)
         {
-            int x = 10;
-            int y = 10;
-            char symb = 'a';
+            Point p1 = new Point(10, 10, '*');
+            
+            //int x = 10;
+            //int y = 10;
+            //char symb = 'a';
+
+            = new Point(11, 10, '*')
+
 
             int x1 = 11;
             int y1 = 10;

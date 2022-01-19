@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\snake-v2\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\snake-v2\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\snake-v2\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.AssemblyInfo.cs
+C:\Users\opilane\source\repos\snake-v2\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.csproj.CoreCompileInputs.cache
