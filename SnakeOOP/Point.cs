@@ -20,8 +20,12 @@ namespace SnakeOOP
         
         
         }
-    
-    
+
+        public void Draw()
+        {
+            Console.SetCursorPosition(x ,y);
+            Console.Write(symb);
+        }
     
     
     

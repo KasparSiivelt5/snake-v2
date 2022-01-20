@@ -7,19 +7,15 @@ namespace SnakeOOP
         static void Main(string[] args)
         {
             Point p1 = new Point(10, 10, '*');
-            
-            //int x = 10;
-            //int y = 10;
-            //char symb = 'a';
+            Point p2 = new Point(11, 10, '*');
 
-            = new Point(11, 10, '*')
 
 
             int x1 = 11;
             int y1 = 10;
 
-            Draw(x, y, symb);
-            Draw(x1, y1, symb);
+                 //Draw(p1.x, p1.y, p1.symb);
+                 //Draw(  p2.x, p2.y, p2.symb);
 
 
 

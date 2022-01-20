@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z4yYB6fpPKCVVrBznEv7CQiZd9oyVmE5dkJHqkvRUJybl6i40Luj5TEgSecCXaB+JNZ22ZwmwtdeI5CgNcIW0A==",
+  "dgSpecHash": "E7Yf7uzDzn763dNnQUOfTHl7Jd7wtd+puhe9OTeSWd9/VOBrCsTejTYsSs8IIHOl9RupewViY8k9ZKvMuvhthQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\snake-v2\\SnakeOOP\\SnakeOOP.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\snake-v2\\SnakeOOP\\SnakeOOP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

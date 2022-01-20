@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\snake-v2\\SnakeOOP\\SnakeOOP.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\snake-v2\\SnakeOOP\\SnakeOOP.csproj",
       "projectName": "SnakeOOP",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\snake-v2\\SnakeOOP\\SnakeOOP.csproj",
+      "projectPath": "C:\\Users\\opilane\\snake-v2\\SnakeOOP\\SnakeOOP.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\snake-v2\\SnakeOOP\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\snake-v2\\SnakeOOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
