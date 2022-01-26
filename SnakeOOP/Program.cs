@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace SnakeOOP
 {
@@ -14,6 +15,17 @@ namespace SnakeOOP
             int x1 = 11;
             int y1 = 10;
 
+
+            List<Point> pointList = new List<Point>();
+            pointList.Add(p1);
+            pointList.Add(p2);
+
+            foreach(Point point in pointList)
+            {
+                point.Draw();
+            }
+
+            
                  //Draw(p1.x, p1.y, p1.symb);
                  //Draw(  p2.x, p2.y, p2.symb);
 
@@ -23,13 +35,9 @@ namespace SnakeOOP
 
 
 
+
             Console.ReadLine();
 
-            static void Draw(int x, int y, char symb)
-            {
-                Console.SetCursorPosition(x, y);
-                Console.Write(symb);
-            }
 
 
 
