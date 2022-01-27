@@ -16,15 +16,10 @@ namespace SnakeOOP
             int y1 = 10;
 
 
-            List<Point> pointList = new List<Point>();
-            pointList.Add(p1);
-            pointList.Add(p2);
 
-            foreach(Point point in pointList)
-            {
-                point.Draw();
-            }
 
+            HorizontalLine hLine = new HorizontalLine();
+            hLine.Draw();
             
                  //Draw(p1.x, p1.y, p1.symb);
                  //Draw(  p2.x, p2.y, p2.symb);
